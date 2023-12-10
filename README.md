@@ -264,9 +264,7 @@ Retrieve locations based on the specified city and category.
 To run the server, execute the following command:
 
 ```bash
-node your-app-file.js
+node server.js
 ```
-
-Replace `your-app-file.js` with the filename where your Express.js application is defined.
 
 The server will be running on port 3000, and you can access the API using the specified endpoints.
